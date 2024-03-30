@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
-
+# NAME : S.Sanjay Balaji
+# REGISTER NUMBER : 212223240149
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
