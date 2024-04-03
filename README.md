@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+# EX: 1: Mean and variance of a discrete  distribution
 # NAME : S.Sanjay Balaji
 # REGISTER NUMBER : 212223240149
 # Aim : 
